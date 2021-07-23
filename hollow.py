@@ -1,4 +1,4 @@
-passwords = {"usr1": "password", "usr2": "lol", "usr3": "another_pwd"}
+passwords = {"user1": "password", "user2": "lol", "user3": "another_pwd"}
 messages = {"usr1": [], "usr2": [], "usr3": []}
 while True :   
     while True :
